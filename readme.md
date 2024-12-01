@@ -1,4 +1,4 @@
-## WIFI QR Code Generator block
+## WIFI QR Code Generator block for WordPress
 
 <img src="wifiqr.gif" />
 
